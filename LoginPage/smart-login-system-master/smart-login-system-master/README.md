@@ -33,9 +33,6 @@ The project consists of the following files:
 5. After logging in, you'll be redirected to the home page, where your name will be displayed in the welcome message.
 6. Click the "Log Out" button on the home page to log out and return to the sign-in page.
 
-## GitHub Pages
-
-The project is hosted on GitHub Pages. You can access it [here](https://eman289.github.io/smart-login-system/).
 
 ## Note
 
