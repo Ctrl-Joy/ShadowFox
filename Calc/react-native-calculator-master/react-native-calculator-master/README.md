@@ -15,4 +15,3 @@ A simple cross platform (iOS and Android) React Native calculator app. This exam
 
 ---
 
-This project was put together to serve as an example to help you in building your own React Native apps. Feel free to download it and tinker with it!
